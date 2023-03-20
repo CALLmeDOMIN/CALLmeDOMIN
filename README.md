@@ -1,5 +1,5 @@
 # Hi there, I'm Dominik aka CALLmeDOMIN 👋
-  Studying at AGH Kraków, Poland.
+  Studying Industrial Computer Science at AGH Kraków, Poland.
 ### Connect with me:
 
 - Discord: CALLmeDOMIN#0097

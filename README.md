@@ -7,11 +7,10 @@
 
 ### Hosted projects:
 > https://vercel.com/callmedomin
-
-> #### [Car rental](car-rental-dominiksieron.vercel.app/)
-
-### Portfolio:
-> https://dominiksieron.vercel.app/
+>
+> ### [Portfolio](https://dominiksieron.vercel.app/)
+> ### [Car rental](car-rental-dominiksieron.vercel.app/)
+>
 
 ### Languages and Tools:
 

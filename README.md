@@ -1,15 +1,16 @@
 # Hi there, I'm Dominik aka CALLmeDOMIN 👋
-  Studying Industrial Computer Science at AGH Kraków, Poland.
+  Studying Computer Science in Engineering at AGH University of Cracow, Poland.
 ### Connect with me:
 
 - Discord: CALLmeDOMIN#0097
 - email: dominiksieron13@gmail.com
+- in: [LinkedIn](linkedin.com/in/dominiksieron/)
 
 ### Hosted projects:
 > https://vercel.com/callmedomin
 >
-> ### [Portfolio](https://dominiksieron.vercel.app/)
-> ### [Car rental](car-rental-dominiksieron.vercel.app/)
+> ### [Portfolio](dsieron.pl)
+> ### [Car rental](carrental.dsieron.pl)
 >
 
 ### Languages and Tools:

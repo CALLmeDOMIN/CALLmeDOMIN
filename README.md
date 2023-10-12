@@ -4,13 +4,13 @@
 
 - Discord: CALLmeDOMIN#0097
 - email: dominiksieron13@gmail.com
-- in: [LinkedIn](linkedin.com/in/dominiksieron/)
+- in: [LinkedIn](https://linkedin.com/in/dominiksieron/)
 
 ### Hosted projects:
 > https://vercel.com/callmedomin
 >
-> ### [Portfolio](dsieron.pl)
-> ### [Car rental](carrental.dsieron.pl)
+> ### [Portfolio](https://dsieron.pl/)
+> ### [Car rental](https://carrental.dsieron.pl)
 >
 
 ### Languages and Tools:

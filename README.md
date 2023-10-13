@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nodejs,nextjs,tailwind,sass,py,cpp,c,github,git)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nextjs,tailwind,sass,rust,py,cpp,c,github,git)](https://skillicons.dev)
 
 
 ---

@@ -13,7 +13,7 @@
 - [Portfolio](https://dsieron.pl/)
 - [Car rental](https://carrental.dsieron.pl)
 
-### Languages and Tools:
+# Languages and Tools:
 
 [![Languages and Tools](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nextjs,tailwind,sass,rust,py,cpp,c,github,git)](https://skillicons.dev)
 

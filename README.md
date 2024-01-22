@@ -1,5 +1,7 @@
 # Hi there, I'm Dominik aka CALLmeDOMIN 👋
   Studying Computer Science in Engineering at AGH University of Cracow, Poland.
+  
+[Hackathons](https://github.com/stars/CALLmeDOMIN/lists/hackathons)
 
 # Connect with me:
 

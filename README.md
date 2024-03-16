@@ -6,14 +6,13 @@
 # Connect with me:
 
 - Discord: @callmedomin
-- email: dominiksieron13@gmail.com
+- email: [contact@dsieron.pl](mailto:contact@dsieron.pl)
 - in: [Link &rarr;](https://linkedin.com/in/dominiksieron/)
 
 # Hosted projects:
 
 - [Vercel](https://vercel.com/callmedomin)
 - [Portfolio](https://dsieron.pl/)
-- [Car rental](https://carrental.dsieron.pl)
 
 # Languages and Tools:
 

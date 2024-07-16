@@ -7,7 +7,7 @@
 
 - Discord: @callmedomin
 - email: [contact@dsieron.pl](mailto:contact@dsieron.pl)
-- in: [Link &rarr;](https://linkedin.com/in/dominiksieron/)
+- Linkedin: [Link &rarr;](https://linkedin.com/in/dominiksieron/)
 
 # Hosted projects:
 

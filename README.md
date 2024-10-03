@@ -5,7 +5,7 @@
 
 # Connect with me:
 
-- Discord: @callmedomin
+- Discord: [@callmedomin](https://discord.com/users/320254777160368139)
 - email: [contact@dsieron.pl](mailto:contact@dsieron.pl)
 - Linkedin: [Link &rarr;](https://linkedin.com/in/dominiksieron/)
 

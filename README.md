@@ -1,22 +1,23 @@
 # Hi there, I'm Dominik aka CALLmeDOMIN 👋
   Studying Computer Science in Engineering at AGH University of Cracow, Poland.
   
-[Hackathons](https://github.com/stars/CALLmeDOMIN/lists/hackathons)
+[Hackathons](https://github.com/stars/CALLmeDOMIN/lists/hackathons)  
+[Portfolio](https://dsieron.pl/)
 
 # Connect with me:
 
-- Discord: [@callmedomin](https://discord.com/users/320254777160368139)
-- email: [contact@dsieron.pl](mailto:contact@dsieron.pl)
-- Linkedin: [Link &rarr;](https://linkedin.com/in/dominiksieron/)
-
-# Hosted projects:
-
-- [Vercel](https://vercel.com/callmedomin)
-- [Portfolio](https://dsieron.pl/)
+<p align="center">
+  <a href="https://discord.com/users/3202547771" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>&nbsp;
+  <a href="mailto:contact@dsieron.pl" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>&nbsp;
+  <a href="https://linkedin.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+</p>
 
 # Languages and Tools:
 
-[![Languages and Tools](https://skillicons.dev/icons?i=vscode,html,css,js,ts,react,nextjs,tailwind,sass,go,rust,py,cpp,c,git)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,electron,tailwind,sass,go,spring,py,cpp,neovim,vscode,arch&theme=dark" />
+  </a>
+</p>
 
 ---

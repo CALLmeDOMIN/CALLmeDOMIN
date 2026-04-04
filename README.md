@@ -7,7 +7,6 @@
 # Connect with me:
 
 <p align="center">
-  <a href="https://discord.com/users/3202547771" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>&nbsp;
   <a href="mailto:contact@dsieron.pl" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>&nbsp;
   <a href="https://linkedin.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 </p>
